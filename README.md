@@ -5,7 +5,7 @@ This repository contains beginner-friendly Python projects built while learning 
 ## Projects
 
 - ✅ Expense Tracker
-- 🚧 Student Management System
+- ✅ DataSet-Organizer
 - 🚧 File Organizer
 - 🚧 Weather App
 - 🚧 Password Manager
